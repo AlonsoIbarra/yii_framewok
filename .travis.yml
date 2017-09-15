@@ -11,5 +11,5 @@ matrix:
     - php: 5.3
 
 script:
-    - cd yii_framework
+    - ls -l
     - vendor/bin/codecept run
